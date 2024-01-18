@@ -1,7 +1,6 @@
 
 ## Drafting Income Projections
 
-![image](https://st3.depositphotos.com/1350793/13201/i/450/depositphotos_132018574-stock-photo-income-concept-with-hand.jpg)
 
 
 
