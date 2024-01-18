@@ -4,4 +4,4 @@
 * The model can provide valuable information for policymakers, researchers, and individuals seeking to comprehend the determinants of financial success across diverse geographic and demographic contexts.
 
 ### :inbox_tray:Dataset:
-* Dataset is provided in 'Project Dataset' folder.
+* The dataset is provided in 'Project Dataset' folder.
